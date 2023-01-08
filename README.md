@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kleaar</h1>
 <h3 align="center">A passionate C developer</h3>
-http://ani-github.github.io/animegifs/soul-eater/buttkick.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
 
