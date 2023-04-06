@@ -1,5 +1,5 @@
 ### Hi there 👋
- ┌──(Myxa@root)-[~/]
+#### ┌──(Myxa@root)-[~/]
 └─$ cat Myxa.py
 
 class Myxa:
@@ -9,7 +9,7 @@ def  social(self):
  self.dsc = "Myxa..." 
  self.tlg = "??????"
 
- ┌──(Ayhuuu@root)-[~/]
+ ┌──(Myxa@root)-[~/]
  └─$
 ![Developer](https://cdn.discordapp.com/attachments/1056531281904672788/1061717042392219789/49c288411e888ada59a7cac132917197.jpg)
 
