@@ -5,12 +5,13 @@
 class Myxa:
 
 def  social(self):
- self.gtb = "https://github.com/Ayhuuu"
+ self.gtb = "https://github.com/Myxa"
  self.dsc = "Myxa..." 
  self.tlg = "??????"
-
+ 
  ┌──(Myxa@root)-[~/]
  └─$
+ 
 ![Developer](https://cdn.discordapp.com/attachments/1056531281904672788/1061717042392219789/49c288411e888ada59a7cac132917197.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
