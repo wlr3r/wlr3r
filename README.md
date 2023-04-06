@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### ┌──(Myxa@root)-[~/]
+ ┌──(Myxa@root)-[~/]
 └─$ cat Myxa.py
 
 class Myxa:
