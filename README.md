@@ -4,11 +4,6 @@
 └─$ cat main.py
 
 class Kleaar:
-
-def  social(self):
- self.gtb = "https://github.com/Kleaar"
- self.dsc = "Kleaar..." 
- self.tlg = "??????"
  
  ┌──(n3spR@root)-[~/]
  └─$
