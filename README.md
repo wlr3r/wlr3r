@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-#### ┌──(Myxa@root)-[~/]
-└─$ cat Myxa.py
+#### ┌──(n3spR@root)-[~/]
+└─$ cat main.py
 
-class Myxa:
+class Kleaar:
 
 def  social(self):
- self.gtb = "https://github.com/Myxa"
- self.dsc = "Myxa..." 
+ self.gtb = "https://github.com/Kleaar"
+ self.dsc = "Kleaar..." 
  self.tlg = "??????"
  
- ┌──(Myxa@root)-[~/]
+ ┌──(n3spR@root)-[~/]
  └─$
  
 ![Developer](https://cdn.discordapp.com/attachments/1056531281904672788/1061717042392219789/49c288411e888ada59a7cac132917197.jpg)
