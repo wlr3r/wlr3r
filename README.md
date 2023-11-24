@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-#### ┌──(n3spR@root)-[~/]
+#### ┌──(wlr3r@root)-[~/]
 └─$ cat main.py
 
-class Kleaar:
+class wlr3r:
  def  social(self):
- self.gtb = "https://github.com/Kleaar"
+ self.gtb = "https://github.com/wlr3r"
  
- #### ┌──(n3spR@root)-[~/]
+ #### ┌──(wlr3r@root)-[~/]
  └─$
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
