@@ -3,6 +3,10 @@
 <h3 align="center">A passionate junior developer Welcome to my GitHub profile! I'm Samy, a junior developer with a passion for coding and learning new technologies. I'm always ready for new challenges and eager to solve complex problems. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you want to collaborate on a project.</h3>
 
 
+
+
+
+
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
