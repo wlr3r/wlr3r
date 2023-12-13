@@ -14,6 +14,6 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="kleaar" /> </p>
-![](https://github-readme-stats.vercel.app/api?username=wlr3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wlr3r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wlr3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+https://github-readme-stats.vercel.app/api?username=wlr3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false<br/>
+https://github-readme-streak-stats.herokuapp.com/?user=wlr3r&theme=dark&hide_border=false<br/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=wlr3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
