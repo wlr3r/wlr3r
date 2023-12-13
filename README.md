@@ -19,6 +19,3 @@
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nosph3r) 
-
-| ![GitHub Streak Stats]
-| (https://github-readme-streak-stats.herokuapp.com/?user=wlr3r&theme=dark&hide_border=false)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlr3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
