@@ -17,7 +17,6 @@
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="kleaar" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wlr3r&show_icons=true&theme=dark&locale=en&layout=compact" alt="wlr3r" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wlr3r&" alt="wlr3r" /></p>
