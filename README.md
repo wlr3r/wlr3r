@@ -1,7 +1,6 @@
 # 💫
 <br>
 
-<h1 align="center">note</h1>
 <h3 align="center">Enjoy creating random things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
