@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi</h1>
 <h3 align="center">A passionate junior developer Welcome to my GitHub profile! I'm, a junior developer with a passion for coding and learning new technologies. I'm always ready for new challenges and eager to solve complex problems. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you want to collaborate on a project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
