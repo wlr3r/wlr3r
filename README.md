@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-(https://github.com/wlr3r/wlr3r/blob/output/github-contribution-grid-snake2.svg)
+![Contribution snake example](https://github.com/<wlr3r>/<wlr3r>/blob/output/github-contribution-grid-snake.svg)
 
 <h6>✨Languages and Tools:</h6>
 <div align="left">
