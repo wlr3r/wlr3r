@@ -4,7 +4,7 @@
 <h3 align="center">Enjoy creating random things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleaar&label=Profile%20views&color=0e75b6&style=flat" alt="kleaar" /> </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=wlr3r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph"  />
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
