@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{wlr3r}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{wlr3r}}/{{wlr3r}}/blob/output/github-contribution-grid-snake.svg)
 
 <h6>✨Languages and Tools:</h6>
 <div align="left">
