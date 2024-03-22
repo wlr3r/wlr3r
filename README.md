@@ -4,8 +4,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wlr3r/wlr3r/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/{{wlr3r}}/{{wlr3r}}/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <h6 align="left">Languages and Tools:</h6>
