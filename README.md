@@ -9,9 +9,6 @@
 ![Snake animation](https://github.com/{{wlr3r}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
 <h6>✨Languages and Tools:</h6>
-
-##
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
