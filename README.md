@@ -19,7 +19,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="kleaar" /> </p>
+<img src="https://raw.githubusercontent.com/wlr3r/wlr3r/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
 
