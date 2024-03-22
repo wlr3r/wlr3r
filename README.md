@@ -8,7 +8,7 @@
 
 <h6 align="left">Languages and Tools:</h6>
 
-![Languages and Tools](https://camo.githubusercontent.com/5b2407f37d124d766e325ba307c45f165a418ae72f96f4f00f05ef16b5ce1a0f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f557650767358396f4d6c4d57732f67697068792e676966) 
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
