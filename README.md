@@ -1,30 +1,21 @@
 <h2 align="left">👋 Hi, I'm lezt</h2>
 
 ###
-I'm a Full Stack web developer. who is excited to contribute to open source and learn new things.
-<h6>✨Languages and Tools:</h6>
+I'm a junior web developer. who is excited to contribute to open source and learn new things.
+
+<img src="https://skillicons.dev/icons?i=js">
+<img src="https://skillicons.dev/icons?i=java">
+<img src="https://skillicons.dev/icons?i=html">
+<img src="https://skillicons.dev/icons?i=css">
+<img src="https://skillicons.dev/icons?i=php">
+<img src="https://skillicons.dev/icons?i=sql">
 <img src="https://skillicons.dev/icons?i=python">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+<img src="https://skillicons.dev/icons?i=github">
+<img src="https://skillicons.dev/icons?i=git">
+<img src="https://skillicons.dev/icons?i=azure">
+<img src="https://skillicons.dev/icons?i=bootstrap">
+<img src="https://skillicons.dev/icons?i=figma">
+
 
 ###
 ###
