@@ -1,4 +1,4 @@
-<h2 align="center">Enjoy creating random things.</h2>
+<h2 align="left">Enjoy creating random things.</h2>
 
 ###
 
