@@ -1,7 +1,7 @@
-<h2 align="left">Enjoy creating random things.</h2>
+<h2 align="left">👋 Hi, I'm lezt</h2>
 
 ###
-
+I'm a Full Stack web developer. who is excited to contribute to open source and learn new things.
 <h6>✨Languages and Tools:</h6>
 <img src="https://skillicons.dev/icons?i=python">
 <div align="left">
