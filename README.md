@@ -8,13 +8,15 @@ I'm a junior web developer. who is excited to contribute to open source and lear
 <img src="https://skillicons.dev/icons?i=html">
 <img src="https://skillicons.dev/icons?i=css">
 <img src="https://skillicons.dev/icons?i=php">
-<img src="https://skillicons.dev/icons?i=sql">
+<img src="https://skillicons.dev/icons?i=mysql">
 <img src="https://skillicons.dev/icons?i=python">
 <img src="https://skillicons.dev/icons?i=github">
 <img src="https://skillicons.dev/icons?i=git">
 <img src="https://skillicons.dev/icons?i=azure">
 <img src="https://skillicons.dev/icons?i=bootstrap">
 <img src="https://skillicons.dev/icons?i=figma">
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=2)](https://skillicons.dev)
 
 
 ###
