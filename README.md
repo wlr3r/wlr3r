@@ -8,7 +8,6 @@ I'm a junior web developer. who is excited to contribute to open source and lear
 ###
 ###
 
-<p align="left">📊 GitHub Stats:</p>
 
 ###
 
