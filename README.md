@@ -1,7 +1,7 @@
- <h2 align="left">👋 Hi, I'm lezt</h2>
+ <h2 align="left">👋 Hi, I'm saam</h2>
 
 ###
-I'm a junior web developer. who is excited to contribute to open source and learn new things.
+I'm a junior developer. who is excited to contribute to open source and learn new things.
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,php,mysql,python,github,git,azure,bootstrap,figma&perline=12)](https://skillicons.dev)
 
